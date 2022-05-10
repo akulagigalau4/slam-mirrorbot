@@ -1,1 +1,11 @@
-
+{
+    "name": "MDisk Video Uploader Bot",
+    "description": "Upload Mdisk Link Or Direct Url to Pdisk...",
+    "keywords": [
+        "telegram",
+        "mdisk",
+        "shortner"
+    ],
+    "website": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
+    "repository": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
+}
