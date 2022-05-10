@@ -8,4 +8,23 @@
     ],
     "website": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
     "repository": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
+    "logo": "https://telegra.ph/file/51a84cdd8254ee0406683.jpg", 
+    "env": {
+        "CONFIG_FILE_URL": {
+            "description": "Your bot token (must add)",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
 }
