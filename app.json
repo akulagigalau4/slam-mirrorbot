@@ -1,13 +1,13 @@
 {
-    "name": "MDisk Video Uploader Bot",
-    "description": "Upload Mdisk Link Or Direct Url to Pdisk...",
+    "name": "galautruss",
+    "description": "sakit hatiii...",
     "keywords": [
-        "telegram",
-        "mdisk",
-        "shortner"
+        "sakit",
+        "hati",
+        "putus"
     ],
-    "website": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
-    "repository": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
+    "website": "https://github.com/akulagigalau4/slam-mirrorbot",
+    "repository": "https://github.com/akulagigalau4/slam-mirrorbot",
     "logo": "https://telegra.ph/file/51a84cdd8254ee0406683.jpg", 
     "env": {
         "CONFIG_FILE_URL": {
